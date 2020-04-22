@@ -1,0 +1,6 @@
+server:
+  port: 8089
+redis:
+  host: localhost
+  port: 6379
+  duration: 120
